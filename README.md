@@ -1,3 +1,5 @@
+This repo is a fork of https://github.com/aye0aye/box
+
 # Box
 A cron application which sends a pulse to a database regularly.
 
@@ -12,3 +14,4 @@ A cron application which sends a pulse to a database regularly.
 This project works together with [Data Visualization][1] project.
 
 [1]:https://github.com/ship-ddc/dv
+(forked from https://github.com/aye0aye/dv)
