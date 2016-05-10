@@ -11,8 +11,8 @@ build:
 
 integrations:
   hub:
-    - integrationName: "shipdeploy"
-      type: docker
+    - integrationName: "ship-ddc-dtr"
+      type: "Docker Trusted Registry"
       branches:
         only:
           - master
