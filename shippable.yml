@@ -3,8 +3,8 @@ language: none
 build:
   ci:
     - echo 'CI Running'
-#    - export IMAGE_NAME=ship-dtr.in/sdemo/box
-    - export IMAGE_NAME=shippabledocker/box-ddc
+    - export IMAGE_NAME=ship-dtr.in/sdemo/box
+#    - export IMAGE_NAME=shippabledocker/box-ddc
     - ./build.sh
 
   post_ci:
